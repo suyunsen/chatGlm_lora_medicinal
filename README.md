@@ -1,0 +1,2 @@
+# chatGlm_lora_medicinal
+使用lora在医药领域的数据集上微雕chatglm，得到一个医疗问答机器人
